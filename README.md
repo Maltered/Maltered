@@ -1,10 +1,4 @@
 <img src="https://github.com/Maltered/Maltered/assets/98664841/9fde9352-fff4-45aa-be67-48a9dda16ae2" height="200" width="100%" />
-
-
-
-
-
-
 <!--
 Here are some ideas to get you started:
 
